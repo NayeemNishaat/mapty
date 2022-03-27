@@ -1,3 +1,5 @@
+## Live at https://nayeemnishaat.github.io/mapty/
+
 # Mapty
 
 A map based workout application. Where you can save your daily workouts into the
